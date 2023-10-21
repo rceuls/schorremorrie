@@ -1,4 +1,4 @@
-# Gloggiemoggie - Basic Rules
+# Schorremorrie - Basic Rules
 
 ## Core Rules
 
@@ -62,6 +62,25 @@ Two-Weapon Fighting: When you miss an attack with your main hand, you can make a
 - Healing: 8 hour rest + 1 ration: restore all HP
 - Medical care (end of session): remove all wounds
 
+## Status effects
+
+| Status | Effect |
+| --- | --- |
+| Asphyxiate | Hold breath for (Fortitude) rounds, after that normal fortitude roll or dying |
+| Blind | Attack & Dodge are hard |
+| Charmed | All rolls vs charmer fail, indirect damage causes emotional scars | 
+| Confused | d6: interact with 1: player on your right, 2: player on your left, 3: yourself, 4: closest monster, 5: environment, 6: yourself |
+| Dazed | Either move or act in turn, not both |
+| Exhausted | -1 inventory and psyche slots | 
+| Frightened | No interaction with target, D6: 1: drop what you're holding, 2: scream, 3: fall prone, 4: grapple closest ally or object, 5: stunned for one turn, 6: runaway |
+| Grappled | No movement, D6: 1: asphyxiating, 2: left leg, 3: right leg, 4: left arm, 5: right arm, 6: item you are wearing |
+| Invisible | Attack & Dodge are easy | 
+| Petrified | Skip turn, all rolls are hard, resist first 10 damage of an attack |
+| Poisoned | Disadvantage on all actions |
+| Prone | Melee attack & dodge is hard, ranged dodge is easy |
+| Stunned | Skip turn, all rolls are hard |   
+
+
 ## Exploration
 
 ### Indoors
@@ -70,7 +89,6 @@ Two-Weapon Fighting: When you miss an attack with your main hand, you can make a
 - Random encounters: 1 roll per 30 minutes
 - Torches: 1 roll per 10 minutes
 - 10 rooms can be crossed per 10 minutes (3 rooms per 10 minutes if stealthy)
-
 
 ### Outdoors
 
