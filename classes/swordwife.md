@@ -8,7 +8,7 @@ a khopesh or grip-tongue sword, a mattock, a hemione with a lead (treat as a don
 ## Starting Skills
 artifice
 
-## Template
+## Templates
 A: Desperate dodge, Find the opening <br />
 B: Bronze tongue <br />
 C: Alloy <br />
@@ -35,7 +35,7 @@ Example alloy substances and effects:
 - Arsenic: target rolls with a +1 on all injury rolls per arsenic strike.
 - Bismuth: weapon as reflective as a mirror
 - Bone: +2 to maneuvers used to sunder.
-- Gold: +1d6 damage against ordena.
+- Gold: +1d6 damage against talking animals.
 - Gigre particulate: +1 to hit while under the effects of drugs
 - Iron: as iron, but requires 1/3 the usual amount of metal.*
 - Lead: takes up an extra inventory slot. Target saves or takes 1 fatigue.

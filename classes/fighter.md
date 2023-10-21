@@ -6,7 +6,7 @@ Choose three times: a Weapon of your choice, 12 pieces of Ammunition, a Piece of
 ## Starting Skills
 Your choice of Imperial Infantry, Imperial Navy, Celebrity Bodyguard, or Caravan Life.
 
-## Template
+## Templates
 For every Fighter template you have, you gain a bonus of 1 to you attack rolls.
 
 A: Weapon Training, Parry<br />

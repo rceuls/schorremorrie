@@ -30,6 +30,8 @@ Roll a failed career
 ## Starting Skills
 Your failed career, and your choice of Climbing, Disguises, Lying, or Stealth.
 
+## Templates
+
 For every Specialist template you have, you learn a new Trick.
 
 A: Scrounge<br />
