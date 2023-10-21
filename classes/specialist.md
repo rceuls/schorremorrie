@@ -101,5 +101,4 @@ You can achieve things beyond the scope of your skills:
 1. Watchful: You are never surprised. In combat, you can take a full turn before anybody.
 1. Wizkid: You can take 10 minutes to repair any non magical object for 10 minutes.
 
-
-|
+[Source](https://saltygoo.github.io/class/specialist)

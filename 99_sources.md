@@ -1,1 +1,1 @@
-- [salty goo](https://saltygoo.github.io/) (core rules)
+- [salty goo](https://saltygoo.github.io/) (core rules, classes)
