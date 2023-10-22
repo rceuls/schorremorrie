@@ -8,7 +8,7 @@
 ## Chargen
 
 - Three stats (max 10): Fortitude, Dexterity, Willpower: 1d6 + 2
-- Derived stats: HP (Fortitude), Inventory (2 * Fortitude), Psyche (2 * Fortitude)
+- Derived stats: HP (Fortitude), Inventory (2 * Fortitude), Psyche (2 * Willpower)
     - Inventory contains equipment, scars, mutations. Small items are stacked (3 / slot)
     - Psyche contains spells, skills, followers, beliefs, emotional scars
 - Pick class, apply template A
